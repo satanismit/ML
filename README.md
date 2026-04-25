@@ -70,7 +70,7 @@ Classic binary classification problem — predicts whether a passenger survived 
 - Data cleaning and null value handling
 - Feature engineering
 - Training with Logistic Regression and Random Forest
-- Achieved ~98% train accuracy and ~94% test accuracy with Random Forest
+- Evaluation of train/test accuracy to compare model performance
 
 ---
 
