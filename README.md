@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>A hands-on collection of end-to-end Machine Learning projects spanning classification, regression, clustering, NLP, and hyperparameter optimisation — built to learn, experiment, and showcase real-world ML workflows.</em>
+  <em>A hands-on collection of end-to-end Machine Learning projects spanning classification, regression, clustering, NLP, and hyperparameter optimization — built to learn, experiment, and showcase real-world ML workflows.</em>
 </p>
 
 ---
@@ -30,7 +30,7 @@
    - [Decision Tree (Basic + Hyperparameter Tuning)](#7-decision-tree)
    - [Simple Linear Regression](#8-simple-linear-regression)
    - [NLP — Resume Screening App](#9-nlp--resume-screening-app)
-   - [Optuna — Hyperparameter Optimisation Basics](#10-optuna--hyperparameter-optimisation-basics)
+   - [Optuna — Hyperparameter Optimization Basics](#10-optuna--hyperparameter-optimization-basics)
 6. [Datasets Used](#-datasets-used)
 7. [Results Summary](#-results-summary)
 8. [Reproducibility Notes](#-reproducibility-notes)
@@ -80,7 +80,7 @@ ML/
 ├── Boosting_Disease_Detection.ipynb      # Ensemble boosting models for heart-disease detection
 ├── Titanic_Survival_Prediction.ipynb     # Classic Titanic classification with Logistic Reg + RF
 ├── co2-emission-with-pipeline.ipynb      # Regression with full sklearn Pipeline
-├── Optuna_basics.ipynb                   # Hyperparameter optimisation with Optuna
+├── Optuna_basics.ipynb                   # Hyperparameter optimization with Optuna
 │
 ├── Clustering/
 │   ├── KMeans_done.ipynb                 # KMeans fundamentals (synthetic blobs)
@@ -372,7 +372,7 @@ pip install xgboost lightgbm catboost
 
 ---
 
-### 10. Optuna — Hyperparameter Optimisation Basics
+### 10. Optuna — Hyperparameter Optimization Basics
 
 **Notebook:** `Optuna_basics.ipynb`
 
