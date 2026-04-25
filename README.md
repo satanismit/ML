@@ -213,7 +213,7 @@ Classifies resumes into job categories (e.g., Data Science, HR, Finance) using N
 - SMOTE to handle class imbalance
 - Label encoding for target categories
 - Models compared: Logistic Regression, Random Forest
-- State-of-the-art: BERT embeddings + Logistic Regression
+- Experimented with BERT embeddings + Logistic Regression
 
 ---
 
