@@ -144,12 +144,12 @@ Applies multiple unsupervised and supervised algorithms to the Fashion MNIST ima
 ### 8. Credit Card Fraud Detection
 **File:** `Credit_Card_Fraud_Detection/Credit_Card_Fraud_Detection.ipynb`
 
-Detects fraudulent credit card transactions on a highly imbalanced dataset (0.17% fraud rate).
+Detects fraudulent credit card transactions on a highly imbalanced dataset.
 
 **Key observations:**
-- Logistic Regression gave 99.9% accuracy (misleading due to class imbalance)
-- Used confusion matrix as the real evaluation metric
-- Decision Tree reduced false negatives from 44 → 25 compared to Logistic Regression
+- Logistic Regression achieved high accuracy, but accuracy alone was misleading because of class imbalance
+- Used the confusion matrix as a more meaningful evaluation tool
+- Decision Tree reduced false negatives compared to Logistic Regression
 - Also tested Naive Bayes (performed poorly)
 - Saved trained models: `lr_model.pkl`, `dt_model.pkl`, `rfc_model.pkl`, `XGB_model.pkl`
 
